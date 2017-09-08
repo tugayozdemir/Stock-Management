@@ -1,0 +1,11 @@
+c:\users\tugay\documents\visual studio 2017\Projects\Stock\Stock\bin\Debug\Stock.exe.config
+c:\users\tugay\documents\visual studio 2017\Projects\Stock\Stock\bin\Debug\Stock.exe
+c:\users\tugay\documents\visual studio 2017\Projects\Stock\Stock\bin\Debug\Stock.pdb
+c:\users\tugay\documents\visual studio 2017\Projects\Stock\Stock\obj\Debug\Stock.csprojResolveAssemblyReference.cache
+c:\users\tugay\documents\visual studio 2017\Projects\Stock\Stock\obj\Debug\Stock.Login.resources
+c:\users\tugay\documents\visual studio 2017\Projects\Stock\Stock\obj\Debug\Stock.Properties.Resources.resources
+c:\users\tugay\documents\visual studio 2017\Projects\Stock\Stock\obj\Debug\Stock.StockMain.resources
+c:\users\tugay\documents\visual studio 2017\Projects\Stock\Stock\obj\Debug\Stock.csproj.GenerateResource.Cache
+c:\users\tugay\documents\visual studio 2017\Projects\Stock\Stock\obj\Debug\Stock.exe
+c:\users\tugay\documents\visual studio 2017\Projects\Stock\Stock\obj\Debug\Stock.pdb
+C:\Users\tugay\documents\visual studio 2017\Projects\Stock\Stock\obj\Debug\Stock.Products.resources
